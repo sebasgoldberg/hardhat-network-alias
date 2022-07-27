@@ -8,8 +8,6 @@ const config: HardhatUserConfig = {
   defaultNetwork: "hardhat",
   networkAliases: {
     'aave': {
-      'localhost': 'mainnet',
-      'hardhat': 'mainnet'
     }
   }
 };
