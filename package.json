@@ -1,6 +1,6 @@
 {
   "name": "@sebasgoldberg/hardhat-network-alias",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hardhat plugin to use existing contract instances.",
   "repository": "github:sebasgoldberg/hardhat-network-alias",
   "author": "Sebastian Goldberg",
